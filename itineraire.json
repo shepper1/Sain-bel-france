@@ -1,0 +1,166 @@
+{
+  "pays": "France",
+  "drapeau": "🇫🇷",
+  "symbole": "⚜️",
+  "titre": "Évasion en Pays de l'Arbresle : Douceur Lyonnaise",
+  "budget_total": "1060€",
+  "duree": "3 jours uniquement",
+  "temps_vol": "Environ 5h (vol et train, hors transferts aéroport)",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée paisible en Pays Lyonnais",
+      "legende": "Après un voyage depuis Cuxhaven, cette première journée est dédiée à une arrivée en douceur et à la découverte sereine de Sain-Bel. Installez-vous confortablement et laissez le charme discret du village opérer. Une balade légère vous permettra de vous imprégner de l'atmosphère locale et de commencer votre immersion dans la campagne lyonnaise.",
+      "lieu": "Sain-Bel",
+      "activites": [
+        "🛬 <strong>Arrivée à Lyon et transfert à Sain-Bel</strong> : Atterrissez à Lyon-Saint Exupéry, puis rejoignez Sain-Bel en train ou via une voiture de location. Ce trajet vous offre un premier aperçu des paysages vallonnés du Rhône.",
+        "🚶‍♀️ <strong>Découverte du cœur de Sain-Bel</strong> : Flânez dans les rues calmes du village, admirez l'église Saint-Romain et imprégnez-vous de l'ambiance locale, loin de l'agitation. C'est l'occasion parfaite pour se dégourdir les jambes après le voyage."
+      ],
+      "illustration": "sainbel_jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert LYS - Sain-Bel",
+          "texte": "Depuis l'aéroport de Lyon (LYS), prenez le Rhônexpress jusqu'à la gare de Lyon Part-Dieu, puis un TER en direction de Sain-Bel (environ 45 min)."
+        },
+        {
+          "symbole": "🛏️",
+          "titre": "Hébergement",
+          "texte": "Sain-Bel propose quelques gîtes de charme et chambres d'hôtes pour une immersion authentique. Réservez à l'avance pour les meilleures options."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Entre nature et patrimoine local",
+      "legende": "Cette journée est consacrée à l'exploration des trésors naturels et historiques qui entourent Sain-Bel. Des panoramas verdoyants aux saveurs du terroir, en passant par des sites chargés d'histoire, vous découvrirez la richesse insoupçonnée du Pays de l'Arbresle. Préparez-vous à une immersion complète dans la douceur de vivre lyonnaise.",
+      "lieu": "Sain-Bel et environs",
+      "activites": [
+        "🚶‍♂️ <strong>Randonnée sur les sentiers de l'Arbresle</strong> : Partez pour une marche revigorante sur les chemins balisés qui serpentent entre vignobles et forêts, offrant des vues imprenables sur la campagne lyonnaise. Plusieurs boucles sont possibles selon votre niveau et votre envie.",
+        "🧀 <strong>Visite d'une ferme locale et dégustation</strong> : Rencontrez des producteurs passionnés de la région, découvrez les secrets de fabrication de fromages de chèvre ou d'autres spécialités du terroir et savourez des produits authentiques et frais. C'est une expérience gustative et humaine unique.",
+        "⛪ <strong>Exploration de l'Abbaye de Savigny</strong> : Plongez dans l'histoire millénaire de cette ancienne abbaye bénédictine, un joyau architectural niché au cœur de la nature, à quelques kilomètres de Sain-Bel. Ses vestiges racontent des siècles de vie monastique."
+      ],
+      "illustration": "sainbel_jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Conseil Randonnée",
+          "texte": "Prévoyez de bonnes chaussures de marche et une bouteille d'eau. Les sentiers peuvent être vallonnés et offrent des points de vue magnifiques."
+        },
+        {
+          "symbole": "🍇",
+          "titre": "Spécialités locales",
+          "texte": "Ne manquez pas de goûter aux vins du Lyonnais et aux fromages de chèvre locaux, souvent vendus directement à la ferme ou sur les marchés."
+        },
+        {
+          "symbole": "🚗",
+          "titre": "Déplacements",
+          "texte": "Une voiture de location est recommandée pour explorer les environs de Sain-Bel avec flexibilité et accéder facilement aux fermes et sites isolés."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "✈️",
+      "titre": "Saveurs et départ du Lyonnais",
+      "legende": "Pour ce dernier jour, profitez des dernières opportunités de vous imprégner de l'ambiance et des saveurs du Lyonnais. Que ce soit en flânant sur un marché coloré ou en savourant un ultime repas typique, ramenez avec vous un peu de la douceur de vivre française. Préparez-vous ensuite pour le retour, la tête remplie de souvenirs mémorables de cette escapade.",
+      "lieu": "Sain-Bel / Lyon",
+      "activites": [
+        "🛍️ <strong>Marché de l'Arbresle ou Oullins</strong> : Selon le jour de la semaine, visitez un marché local pour acheter des produits frais, des fromages, de la charcuterie ou des souvenirs artisanaux. C'est une immersion authentique dans la vie quotidienne de la région.",
+        "🍽️ <strong>Déjeuner typique dans un restaurant local</strong> : Savourez un dernier repas mémorable, que ce soit un plat traditionnel lyonnais ou une spécialité du terroir. Profitez de cette occasion pour déguster les saveurs qui ont fait la réputation de la gastronomie locale.",
+        "✈️ <strong>Départ de Lyon-Saint Exupéry</strong> : Après ces trois jours riches en découvertes, il est temps de rejoindre l'aéroport de Lyon pour votre vol retour. Gardez en mémoire les paysages, les saveurs et l'accueil du Pays de l'Arbresle."
+      ],
+      "illustration": "sainbel_jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Idées souvenirs",
+          "texte": "Pensez aux produits du terroir comme la confiture de coing, le miel local, ou des savons artisanaux pour ramener un peu de la région chez vous."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Temps de trajet",
+          "texte": "Prévoyez environ 1h30 à 2h de trajet entre Sain-Bel et l'aéroport de Lyon-Saint Exupéry, incluant les correspondances. Anticipez pour éviter tout stress."
+        },
+        {
+          "symbole": "🍴",
+          "titre": "Dernier repas",
+          "texte": "Si votre vol est tardif, vous pouvez déjeuner à Lyon avant de vous rendre à l'aéroport pour profiter d'un authentique bouchon lyonnais."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "400€/pers (Vol A/R Cuxhaven-Hambourg-Lyon, incluant train Cuxhaven-Hambourg)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "150€/pers (Location voiture 3j ou transports en commun locaux + navette aéroport)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "220€/pers (3j, repas variés, incluant un restaurant typique)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "220€/pers (2 nuits en hôtel 3* ou gîte de charme)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "70€/pers (Entrées sites, dégustations, petites activités)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mai, juin, septembre et octobre.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Au printemps et en automne, les températures sont douces (15-25°C). Prévoir des couches et un imperméable léger.",
+      "symbole": "☀️"
+    },
+    {
+      "titre": "La carte bancaire est largement acceptée. Prévoir un peu de liquide pour les petits marchés ou fermes.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Le permis de conduire allemand est valable en France. La conduite se fait à droite, et la vitesse en km/h.",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "Une carte SIM locale ou eSIM est recommandée pour la navigation et les communications. Le Wi-Fi est disponible dans la plupart des hébergements.",
+      "symbole": "📶"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations sur la région",
+      "titre": "Office de Tourisme du Pays de l'Arbresle",
+      "url": "https://www.paysdelarbresle.fr/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires des trains régionaux (TER)",
+      "titre": "SNCF TER Auvergne-Rhône-Alpes",
+      "url": "https://www.ter.sncf.com/auvergne-rhone-alpes",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Prévisions météo locales",
+      "titre": "Météo France",
+      "url": "https://www.meteofrance.com/",
+      "symbole": "🌤️"
+    }
+  ]
+}
